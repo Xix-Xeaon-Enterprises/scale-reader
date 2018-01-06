@@ -1,6 +1,8 @@
 # scale-reader
 Simple display of weight from a DYMO USB scale.
 
+![scale-reader screenshot](https://www.xixenter.com/stuff/scale-reader-screenshot.png)
+
 ## Linux
 ! usb.core.USBError: [Errno 13] Access denied (insufficient permissions)
 
